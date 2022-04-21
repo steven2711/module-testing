@@ -1,4 +1,4 @@
-import { changeHeader } from "./eligibility.view";
+import { changeHeader } from "./eligibility.view.js";
 
 
 changeHeader("shit")
